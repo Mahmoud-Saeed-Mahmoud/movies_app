@@ -16,13 +16,8 @@ The Movies App is a Flutter application that utilizes the TMDB database to provi
 
 ## Screenshots
 
-<style>
-  .screenshot {
-    width: 300px;
-  }
-</style>
-
-![Screenshot 1](readme/Screenshot_2023-08-05-10-24-10-123_com.example.movies_app.jpg){.screenshot}
+<img src="readme/https://github.com/Mahmoud-flutter-dev/movies_app/blob/master/readme/Screenshot_2023-08-05-10-24-10-123_com.example.movies_app.jpg" alt="Screenshot 1" width="300">
+<img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300">
 ![Screenshot 2](screenshots/screenshot2.png){.screenshot}
 ![Screenshot 2](screenshots/screenshot2.png){.screenshot}
 ![Screenshot 2](screenshots/screenshot2.png){.screenshot}
