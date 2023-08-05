@@ -1,5 +1,8 @@
 # Movies App
 
+[![Flutter Version](https://img.shields.io/badge/Flutter-v3.10.0-blue)](https://flutter.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 The Movies App is a Flutter application that utilizes the TMDB database to provide users with information about movies. It offers various categories, including trending, popular, now playing, and top-rated movies. Users can explore trailers, ratings, titles, similar movies, and reviews for each movie.
 
 ## Features
@@ -16,18 +19,25 @@ The Movies App is a Flutter application that utilizes the TMDB database to provi
 
 ## Screenshots
 
-<img src="https://github.com/Mahmoud-flutter-dev/movies_app/blob/master/readme/Screenshot_2023-08-05-10-24-10-123_com.example.movies_app.jpg" alt="Screenshot 1" width="300">
-<img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300">
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
-![Screenshot 2](screenshots/screenshot2.png){.screenshot}
+<img src="assets/splash_screen.png" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-24-10-123_com.example.movies_app.jpg" alt="Screenshot 1" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-24-24-652_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-24-32-316_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-24-47-712_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-25-08-994_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-26-16-347_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-26-23-902_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-26-50-353_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
+
+<img src="readme/Screenshot_2023-08-05-10-27-23-506_com.example.movies_app.jpg" alt="Screenshot 2" width="300">
 
 
 ## Dependencies
